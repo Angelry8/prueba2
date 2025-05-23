@@ -7,6 +7,7 @@ double division(double g, double h){
 int main() {
     double g= 0;
     double h= 0;
+    cout <<"Bienvenido!" <<endl;
     cout <<"Ingrese el primer numero: " <<endl;
     cin >>g;
     cout << "Ingrese el segundo numero: " <<endl;
