@@ -13,6 +13,7 @@ double multiplicacion(double e, double f){
     cout <<"Ingrese el segundo numero: " <<endl;
     cin >> f;
     cout <<"El resultado de la multiplicacion es: " <<double(multiplicacion(e, f)) <<endl;
+    cout <<"Gracias" <<endl;
 
     return 0;
 }
