@@ -9,6 +9,7 @@ int main(){
 double c= 0;
 double d= 0,
 
+cout << "Bienvenido." <<endl;
 cout<< "Escribe el primer numero: " <<endl;
 cin >>c;
 cout<< "Escribe el segundo numero: " <<endl;
